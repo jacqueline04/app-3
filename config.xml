@@ -40,7 +40,7 @@
    <plugin name="cordova-plugin-whitelist" source="npm"/>
    <!--colocar icono app-->
    
-   <icon src="res/android/Globe-Internet-icon.png"/>
+   <icon src="res/android/mdpi.png"/>
    
    </widget>
    
